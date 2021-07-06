@@ -1,7 +1,6 @@
 
 #include <iostream> 
 #include "include/Calculator.hpp" 
-#include "include/Terminal.hpp" 
 
 int main(){ 
 
