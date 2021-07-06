@@ -11,3 +11,8 @@
 * Possibly Get More Computationally Intensive Functions Into The Calculator. 
 * Have Some Sort Of Working API For The Calculator. 
 
+### The Third Header. 
+
+* I Should Probably Add A Licence. 
+* Whilst I'm At It, I Should Also Add A GitIgnore. 
+
